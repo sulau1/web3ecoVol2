@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="w-[1440px] h-[1191px]">
+  <div id="Tokenization" class="top-[200px] relative lg:top-0">
     <div
       class="relative left-[16px] top-[22px] h-[58px] w-[343px] lg:left-[334px] lg:top-[60px] lg:h-[44px] lg:w-[772px]"
     >

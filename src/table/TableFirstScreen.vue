@@ -27,6 +27,8 @@ import MainGreenButton from "../components/MainGreenButton.vue";
         </div>
       </div>
     </div>
-    <MainGreenButton> Выпустить NFT</MainGreenButton>
+    <MainGreenButton class="relative left-[60px]">
+      Выпустить NFT</MainGreenButton
+    >
   </div>
 </template>

@@ -8,6 +8,6 @@ body {
     #191918 0.52%,
     #141514 98.52%
   );
-  width: 100vw;
+  width: screen;
   height: 3000px;
 }

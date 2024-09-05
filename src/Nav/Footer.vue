@@ -18,13 +18,13 @@
         >
           <div
             @click="TermsOfUse"
-            class="h-[20px] w-[102px] text-[16px] font-normal leading-[19.5px] hover:text-darker-green-theme"
+            class="h-[20px] w-[102px] text-[16px] font-normal leading-[19.5px] hover:text-darker-green-theme cursor-pointer"
           >
             Terms of use
           </div>
           <div
             @click="privacyPolicy"
-            class="h-[20px] w-[109px] text-[16px] font-normal leading-[19.5px] hover:text-darker-green-theme"
+            class="h-[20px] w-[109px] text-[16px] font-normal leading-[19.5px] hover:text-darker-green-theme cursor-pointer"
           >
             Privacy Policy
           </div>

@@ -20,7 +20,7 @@ const changeAnswer4 = () => {
 
 <template>
   <div
-    class="relative top-[1900px] h-[669px] w-[375px] lg:top-[400px] lg:h-[523px] lg:w-[1440px]"
+    class="relative top-[100px] h-[669px] w-[375px] lg:top-[400px] lg:h-[523px] lg:w-[1440px]"
   >
     <div
       class="relative left-[161px] top-[30px] h-[29px] w-[54px] lg:left-[675px] lg:top-[60px] lg:h-[44px] lg:w-[90px]"

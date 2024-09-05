@@ -81,6 +81,7 @@ import { onMounted, onUnmounted, ref, computed } from "vue";
 
 <template>
   <div
+    id="Price"
     class="relative top-[-100px] h-[1091px] w-[335px] lg:top-[400px] lg:h-[675px] lg:w-[1440px]"
   >
     <div

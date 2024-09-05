@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="relative left-[-40px] top-[1750px] h-[1500px] w-[335px] lg:left-0 lg:top-[400px] lg:h-[888px] lg:w-[1440px]"
+    class="relative left-[-40px] top-[20px] h-[1500px] w-[335px] lg:left-0 lg:top-[400px] lg:h-[888px] lg:w-[1440px]"
   >
     <div
       class="relative left-[84px] h-[1600px] w-[335px] rounded-[20px] bg-gray-image pt-[71px] lg:h-[808px] lg:w-[1262px]"
